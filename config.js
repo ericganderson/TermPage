@@ -46,7 +46,7 @@ const shortcut = {
 }
 
 var favourites = [
-  ['Keybr test', 'https://www.keybr.com/'],
+  ['Keybr', 'https://www.keybr.com/'],
   ['YouTube', 'https://youtube.com'],
   ['YouTube Music', 'https://music.youtube.com'],
   ['Gmail', 'https://mail.google.com'],
