@@ -233,7 +233,7 @@ function processBash(displayOutput, dOut2, dOut3, dOut4, dOut5, dOut6) {
 
 function linkMaker(nameC, linkC) {
   if (nameC != null && linkC != null) {
-    return '<a href=' + linkC + ' tabindex="0">' + nameC + '</a>'
+    return '<a tabindex="0" href=' + linkC + '>' + nameC + '</a>'
   } else {
     return ''
   }
